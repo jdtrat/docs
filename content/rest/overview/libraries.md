@@ -131,6 +131,14 @@ Library name | Repository
 **github-flask**|[github-flask (Official Website)](http://github-flask.readthedocs.org)
 **torngithub**|[jkeylu/torngithub](https://github.com/jkeylu/torngithub)
 
+### R
+
+Library name | Repository
+|---|---|
+**gh**|[r-lib/gh](https://github.com/r-lib/gh)
+**ghapi3**[coatless/ghapi3](https://github.com/coatless/ghapi3)
+**ghee**|[jdtrat/ghee](https://github.com/jdtrat/ghee)
+
 ### Ruby
 
 Library name | Repository
